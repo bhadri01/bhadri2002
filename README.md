@@ -2,8 +2,8 @@
 <h3 align="center">tech geek</h3>
 
 <h3 align="left">Connect with me:</h3>
--- instagram:**instagram.com/bhadri_x**
--- email:**bhadri2002@gmail.com**
+##instagram:**instagram.com/bhadri_x**
+##email:**bhadri2002@gmail.com**
 <p align="left">
 </p>
 
