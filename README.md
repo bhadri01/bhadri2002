@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm bhadrinathan</h1>
-<h3 align="center">tech geek</h3>
+<h3 align="center">TECH GEEKk</h3>
+<ul>
+  <li>
+    Full-stack Developer
+    <li>
+      Android
+    </li>
+    <li>
+      IOS
+    </li>
+  <li>
+  Desktop
+    </li>
+  <li>
+  Web Application
+    </li>
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <li>instagram:<b>instagram.com/bhadri_x</b></li>
