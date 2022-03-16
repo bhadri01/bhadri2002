@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm bhadrinathan</h1>
-<h3 align="center">TECH GEEKk</h3>
+<h3 align="center">TECH GEEK</h3>
 <ul>
   <li>
     Full-stack Developer
+    <ul>
     <li>
       Android
     </li>
@@ -15,6 +16,7 @@
   <li>
   Web Application
     </li>
+      </ul>
   </li>
 </ul>
 
