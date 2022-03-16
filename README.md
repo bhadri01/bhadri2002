@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm bhadrinathan</h1>
 <h3 align="center">TECH GEEK</h3>
-# Skills
+<h1>Skills</h1>
 <ul>
   <li>
     Full-stack Developer
