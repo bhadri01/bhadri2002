@@ -5,15 +5,6 @@
   <li>
     Full-stack Developer
     <ul>
-    <li>
-      Android
-    </li>
-    <li>
-      IOS
-    </li>
-  <li>
-  Desktop
-    </li>
   <li>
   Web Application
     </li>
