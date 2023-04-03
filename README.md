@@ -13,7 +13,5 @@
 </ul>
 
 <h1 align="left">Connect with me:</h1>
-<li>instagram:<b>instagram.com/bhadri_x</b></li>
-<li>email:<b>bhadri2002@gmail.com</b></li>
-<p align="left">
-</p>
+<a href="https://instagram.com/bhadri_x">Instagram</a>
+<a href="mailto : bhadri2002@gmail.com">E-mail</a>
