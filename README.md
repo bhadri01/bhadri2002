@@ -13,5 +13,5 @@
 </ul>
 
 <h1 align="left">Connect with me:</h1>
-<a href="https://instagram.com/bhadri_x">Instagram</a><br />
-<a href="mailto:bhadri2002@gmail.com">E-mail</a><br />
+<a href="https://instagram.com/bhadri_x" target="_blank">Instagram</a><br />
+<a href="mailto:bhadri2002@gmail.com" target="_blank">E-mail</a><br />
